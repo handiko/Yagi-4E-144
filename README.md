@@ -21,13 +21,13 @@ This antenna won the Techno Antenna Fair 2014 - 2015 for Directional Antenna Cat
 ## Simulations
 The simulation files are included in **Yagi-4E-144/models/**. The .nec file is created using [4NEC-2](https://www.qsl.net/4nec2/) and .maa file is created using [MMANA-GAL](https://hamsoft.ca/pages/mmana-gal.php)
 
-![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/pics/4nec2-calc.png)
-![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/pics/mmana-pattern.png)
-![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/pics/4nec2-geom.png)
+![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/4nec2-calc.png)
+![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/mmana-pattern.png)
+![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/4nec2-geom.png)
 
 ## During Testing
-![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/pics/P8310481.JPG)
-![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/pics/P8310487.JPG)
+![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/P8310481.JPG)
+![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/P8310487.JPG)
 
 ## Contributing
 1. Fork it (https://github.com/handiko/Yagi-4E-144/fork)
