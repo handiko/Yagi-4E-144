@@ -30,7 +30,7 @@ The simulation files are included in **Yagi-4E-144/models/**. The .nec file is c
 ![alt text](https://github.com/handiko/Yagi-4E-144/blob/master/pics/P8310487.JPG)
 
 ## Contributing
-1. Fork it (https://github.com/handiko/PGA103-Eagle-Library/fork)
+1. Fork it (https://github.com/handiko/Yagi-4E-144/fork)
 2. Create new branch (`git checkout -b add-blah-blah`)
 3. Do some editing / create new feature
 4. Commit your works (`git commit -m "Adding some blah blah blah.."`)
