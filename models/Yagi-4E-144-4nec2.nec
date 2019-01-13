@@ -1,0 +1,26 @@
+CM 
+CE
+SY freq=144.3
+SY H=3
+SY ref=1.02
+SY d=0.949
+SY dir1=0.942
+SY dir2=0.922
+SY diaR=4.e-3
+SY diaD=10.e-3
+SY xref=0
+SY xd=0.32
+SY xdir1=0.86
+SY xdir2=1.48
+GW	1	15	xd - (xdir2/2)	d/2	H	xd - (xdir2/2)	-d/2	H	diaD/2
+GW	2	15	xref - (xdir2/2)	ref/2	H	xref - (xdir2/2)	-ref/2	H	diaR/2
+GW	3	15	xdir1 - (xdir2/2)	dir1/2	H	xdir1 - (xdir2/2)	-dir1/2	H	diaR/2
+GW	4	15	xdir2 - (xdir2/2)	dir2/2	H	xdir2 - (xdir2/2)	-dir2/2	H	diaR/2
+GW	5	30	xref - (xdir2/2)	0	H-0.025	xdir2/2	0	H-0.025	15.e-3
+GE	1
+LD	5	0	0	0	37700000
+GN	2	0	0	0	13	0.005
+EK
+EX	0	1	8	0	1	0	0
+FR	0	0	0	0	freq	0
+EN
