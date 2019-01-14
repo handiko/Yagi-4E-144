@@ -3,11 +3,11 @@
 This antenna won the Techno Antenna Fair 2014 - 2015 for Directional Antenna Category.
 
 ## Properties
-* Elements : 1 reflector + 1 driven element + 2 directors
-* Boomlength : 1.5 m
-* Material : Aluminium alloy tubes / rods
+* Elements        : 1 reflector + 1 driven element + 2 directors
+* Boomlength      : 1.5 m
+* Material        : Aluminium alloy tubes / rods
 * Input impedance : 12.5 Ohm resistive nominal (use a gamma match to bring it to 50 Ohm)
-* Gain dBd : better than 16 dBi (simulation, atleast 3 meters above average ground, horizontal polarization)
+* Gain            : better than 16 dBi (simulation, at least 3 meters above average ground, horizontal polarization)
 
 ## Geometries
 
