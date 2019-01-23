@@ -7,6 +7,7 @@ This antenna won the Techno Antenna Fair 2014 - 2015 for Directional Antenna Cat
 * Boomlength      : 1.5 m
 * Material        : Aluminium alloy tubes / rods
 * Input impedance : 12.5 Ohm resistive nominal (use a gamma match to bring it to 50 Ohm)
+* VSWR            : better than 1:1.1  (when matched using a gamma match)
 * Gain            : better than 16 dBi (simulation, at least 3 meters above average ground, horizontal polarization)
 
 ## Geometries
